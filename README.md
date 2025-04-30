@@ -15,7 +15,7 @@ A simple mobile screen built with React Native (Expo + Expo Router) that demonst
 2. Run `npm install` or `yarn install`.
 3. Start with `npx expo start`.
 
-## Approach
+
 - Used `expo-router` and clean folder separation (`data`, `utils`, `styles`).
 - Functional components and hooks.
 - `react-native-reanimated` for animations.
